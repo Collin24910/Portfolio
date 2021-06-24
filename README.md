@@ -6,4 +6,5 @@ Portfolio website for Adv Web Programming summer 2021, Rowan University.
 - NodeJS
 - HTML5/CSS
 - JavaScript
+- PHP
 - AWS: Amazon web service, hosts this application.
